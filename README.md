@@ -25,21 +25,8 @@ _Great job adding an image to the file :tada:_
 
 Let's add some code blocks. Code blocks can render differently depending on the language.
 
-### Example 1
 
-<pre>
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-</pre>
 
-#### How it looks
-
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
 
 ### Example 2
 
